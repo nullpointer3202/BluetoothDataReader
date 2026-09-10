@@ -9,4 +9,4 @@
 이 프로젝트는 다음 오픈소스 라이브러리를 사용합니다:
 
 - [BluetoothSPPLibrary](https://github.com/akexorcist/BluetoothSPPLibrary) by Akexorcist — Apache License 2.0
-  전문은 [`licenses/LICENSE-akexorcist.txt`](./licenses/LICENSE-akexorcist.txt) 참고
+  전문은 [`licenses/LICENSE-akexorcist`](./licenses/LICENSE-akexorcist) 참고
